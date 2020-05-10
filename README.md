@@ -3,3 +3,6 @@ In this project, we create an algorithm to identify metastatic cancer in small i
 
 dataset links
 https://www.kaggle.com/c/histopathologic-cancer-detection/data
+
+
+(Image/model_plot.png)

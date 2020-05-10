@@ -5,32 +5,27 @@ dataset links
 https://www.kaggle.com/c/histopathologic-cancer-detection/data
 
 
-Model Plot
+#### Model Plot
 
 ![](Image/model_plot.png)
 
-
-Training and validation Loss
+#### Training and validation Loss
 
 ![](Image/training1.png)
 
-
-Training and validation Accuracy
+#### Training and validation Accuracy
 
 ![](Image/validation1.png)
 
-
-Receiver operating characteristic (roc) curve
+#### Receiver operating characteristic (roc) curve
 
 ![](Image/roc1.png)
 
+#### Classification Report
 
-Classification Report
+![](Image/Classification%20Report.png)
 
-![](Image/Classification Report.png)
-
-
-Confusion Matrix
+#### Confusion Matrix
 
 ![](Image/cmatrix1.png)
 

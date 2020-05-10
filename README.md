@@ -5,4 +5,7 @@ dataset links
 https://www.kaggle.com/c/histopathologic-cancer-detection/data
 
 
-(Image/model_plot.png)
+
+
+(https://github.com/sa7fiz/identify-metastatic-cancer-/blob/master/Image/model_plot.png)
+
